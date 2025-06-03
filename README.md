@@ -3,8 +3,6 @@ Small project(s) to kickstart my learning in React
 
 ---
 
-### 📋 README.md
-
 ````markdown
 # Simple To-Do App 📝
 
