@@ -35,7 +35,7 @@ A minimalist and responsive to-do list app built using **React**, **TypeScript**
    ```bash
    git clone https://github.com/yourusername/todo-app.git
    cd todo-app
-````
+
 
 2. **Install dependencies**
 
