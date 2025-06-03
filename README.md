@@ -3,7 +3,6 @@ Small project(s) to kickstart my learning in React
 
 ---
 
-````markdown
 # Simple To-Do App 📝
 
 A minimalist and responsive to-do list app built using **React**, **TypeScript**, and **CSS Modules**. Tasks are saved in the browser's **localStorage** so your list persists even after refreshing the page.
