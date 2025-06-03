@@ -1,0 +1,83 @@
+/* App.module.css */
+
+
+
+.button:hover {
+  background-color: #333;
+}
+
+.addButton {
+  height: 40px; /* same as input */
+  padding: 0 0.8rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: rgb(1, 1, 1);
+  color: yellow;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.Deletebutton {
+  margin-left: 1rem;
+  background-color: rgb(0, 0, 0);
+  color: yellow;
+  border: none;
+  cursor: pointer;
+  padding: 11px 13.5px; /* adjust padding */
+  border-radius: 26px;
+  font-weight: regular;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}
+
+.inputRow {
+  display: flex;
+  align-items: flex-start; /* so the inputGroup (column) and button align at the top */
+  gap: 0.55rem;  /* between input field and add button */
+}
+
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+  width: 308px;
+  margin-bottom: 2rem;
+}
+
+.inputField {
+  height: 40px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #000000;
+  border-radius: 26px;
+  box-sizing: border-box;
+  background-color: yellow;
+}
+
+/* Style placeholder */
+.inputField::placeholder {
+  color: rgb(0, 0, 0);
+  opacity: 1; /* Override default opacity */
+}
+
+.errorMessage {
+  color: rgb(0, 0, 0);
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+  margin-left: 0.25rem;
+  font-style: italic;
+}
+
+
+.todoList {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0;
+  margin-left: 0.24rem;
+}
+
+.todoItem {
+  margin-bottom: 1rem; /* Adjust as needed */
+}
