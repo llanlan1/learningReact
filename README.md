@@ -73,8 +73,8 @@ src/
 
 ## 📸 Screenshot
 
-![screenshot](./assets/1.jpg)
-![screenshot](./assets/2.jpg)
+![1](./assets/1.jpg)
+![2](./assets/2.jpg)
 
 ---
 
